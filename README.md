@@ -4,37 +4,10 @@ An Online Store Review App that displays a list of all gallery of hot sauces. Th
 
 ## Installation
 
-## Run Locally
+1. clone the project
 
-Clone the project
+2. install dependencies by running 'npm install' in both the frontend and backend directories
 
-```bash
-  git clone frontend
-  git clone backend
-```
+3. Run 'ng serve' in the terminal window from the frontend directory
 
-Go to the project directory
-
-```bash
-  cd my-project
-```
-
-Install dependencies
-
-```bash
-  npm install
-```
-
-Start the backend server
-
-```bash
-  npm run start or
-  nodemon server
-```
-
-Start the frontend server
-
-```bash
-  ng serve
-```
-# review-app
+4. Run 'nodemon server' in a separate terminal window from the backend directory
